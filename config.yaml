@@ -11,8 +11,6 @@ languages:
     languageName: English
     weight: 1
 
-googleAnalytics: UA-196224788-1
-
 # Control TOC depth
 markup:
   tableOfContents:

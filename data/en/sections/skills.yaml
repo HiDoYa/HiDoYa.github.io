@@ -9,37 +9,36 @@ section:
 skills:
 - name: Programming Languages
   logo: "/images/skills/python.png"
-  # url: ""
-  summary: "Proficient with **Golang**, **Python**, **C/C++**, **Javascript**, and **Bash**."
+  summary: "Proficient in **Go**, **Python**, **Ruby**, **JavaScript/TypeScript**, and **shell scripting**."
 
 - name: Web Frameworks and Libraries
   logo: "/images/skills/react.png"
-  summary: "Experience working with frontend frameworks such as **React** and **Angular**, as well as backend framework such as **Django** and **Express**. Worked with static site generators such as **Hugo**."
+  summary: "Experience with frontend frameworks like **React**, plus backend frameworks including **Django**, **Express**, **FastAPI**, and **Gin**."
 
 - name: Container Orchestration
   logo: "/images/skills/kubernetes.png"
-  summary: "Comfortable containerizing applications using **Docker**. Capable of deploying, managing application on **Kubernetes** using **Helm**."
+  summary: "Experienced with containerizing applications using **Docker** and orchestrating them on **Kubernetes** with **Helm** and **Kustomize**."
 
 - name: Cloud Computing
   logo: "/images/skills/cloud.png"
-  summary: "Worked with most of the major cloud services such as **Google Cloud**, **AWS**, and **AliCloud**."
+  summary: "Experience across major cloud platforms including **Google Cloud**, **AWS**, **Azure**, and **AliCloud** for infrastructure management and deployment."
 
 - name: Databases
   logo: "/images/skills/postgres.png"
-  summary: "Have used various SQL based databases such as **Postgresql** and **MySQL**. Comfortable with some NoSQL databases such as **MongoDB**."
+  summary: "Proficient with SQL databases like **PostgreSQL** and **MySQL**, plus NoSQL solutions including **MongoDB** and **Redis**."
 
 - name: CI/CD
   logo: "/images/skills/gitlab.png"
-  summary: "Experienced with CI/CD tools and concepts, with practical experience with **Gitlab CI/CD** and **Jenkins**."
+  summary: "Hands-on experience with CI/CD pipelines using **GitLab CI/CD** and **Jenkins** for automated testing and deployment."
 
 - name: Time Series Logging
   logo: "/images/skills/prometheus.png"
-  summary: "Professional experience with time-series databases such as **Prometheus** and **InfluxDB** using tools such as **Grafana** and **Telegraf** for visualizations."
+  summary: "Professional experience with time-series monitoring using **Prometheus** and **InfluxDB**, creating dashboards with **Grafana** and collecting metrics with **Telegraf**."
 
 - name: Logging
   logo: "/images/skills/elasticsearch.png"
-  summary: "Have deployed and used logging solutions such as the **ELK stack** (elasticsearch, logstash, kibana)."
+  summary: "Experience deploying centralized logging with the **ELK stack** (Elasticsearch, Logstash, Kibana) and **SumoLogic**."
 
 - name: Other
   logo: "/images/skills/ansible.png"
-  summary: "Comfortable with configuration management tools such as **Ansible**. Understanding of version control using **Git**."
+  summary: "Proficient with configuration management using **Ansible** and **Chef**, version control with **Git**, and networking concepts including **TCP/IP**, **BGP**, and **NetFlow** analysis."
