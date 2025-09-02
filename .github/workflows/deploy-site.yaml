@@ -12,12 +12,12 @@ jobs:
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v2
-    
+
     # install Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.77.0'
+        hugo-version: '0.92.2'
         extended: true
 
     # build website
